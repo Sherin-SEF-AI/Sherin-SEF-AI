@@ -3,7 +3,7 @@
 
 ### 🚀 Building meaningful tech that blends AI, safety, and real-world systems.
 
-I’m a developer and systems thinker who loves turning complex ideas into simple, impactful tools.  
+I’m a startup founder and systems thinker who loves turning complex ideas into simple, impactful tools.  
 Currently working on projects around:
 
 - 🧠 AI & intelligent agents  
