@@ -1,6 +1,9 @@
 
 # 👋 Hey, I’m Sherin Joseph Roy
 
+
+https://sherin-sef-ai.github.io/
+
 ### 🚀 Building meaningful tech that blends AI, safety, and real-world systems.
 
 I’m a startup founder and systems thinker who loves turning complex ideas into simple, impactful tools.  
