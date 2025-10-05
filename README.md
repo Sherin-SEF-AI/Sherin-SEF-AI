@@ -1,18 +1,31 @@
+# 👋 Hi, I'm Sherin Joseph Roy  
 
-# 👋 Hey, I’m Sherin Joseph Roy
+🌐 [https://sherin-sef-ai.github.io](https://sherin-sef-ai.github.io)  
 
+I’m an **entrepreneur, AI technologist, and systems thinker** building real-world applications of artificial intelligence, IoT, and safety intelligence.  
+My work focuses on creating **AI-powered systems** that connect data, people, and infrastructure to make technology more human and purposeful.  
 
-https://sherin-sef-ai.github.io/
+---
 
-### 🚀 Building meaningful tech that blends AI, safety, and real-world systems.
+## 🚀 About Me  
+- Founder of **DeepMost AI** – a company transforming research in AI and automation into enterprise-ready solutions.  
+- Creator of **Lexeek** – an enterprise AI assistant platform that enables intelligent, conversational experiences.  
+- Initiator of **SEF (Safety Ecosystem Framework)** – an AI and IoT-driven public safety network designed for real-time emergency coordination.  
 
-I’m a startup founder and systems thinker who loves turning complex ideas into simple, impactful tools.  
-Currently working on projects around:
+---
 
-- 🧠 AI & intelligent agents  
-- 🛡️ Safety tech & emergency systems  
-- 🔌 IoT integrations with real-time intelligence  
-- ⚙️ CLI tools and developer productivity  
+## 🧠 What I Build  
+- 🤖 **Artificial Intelligence & Intelligent Agents** – Reinforcement learning, decision systems, and adaptive models.  
+- 🛡️ **Safety Tech & Emergency Systems** – Proactive safety intelligence, emergency routing, and predictive alerts.  
+- 🌐 **IoT & Real-Time Intelligence** – Connecting edge devices to AI-powered cloud analytics.  
+- ⚙️ **Developer Tools** – CLI utilities and productivity tools for AI and system automation.  
+
+---
+
+## 🌍 Vision  
+I believe in **human-centric AI** — technology that protects, empowers, and connects.  
+Through projects like **DeepMost AI** and **SEF**, my mission is to make safety and intelligence as ambient as the internet itself.  
+
 
 ---
 
@@ -43,6 +56,7 @@ Currently working on projects around:
 - Building AI agents that operate in constrained environments
 - Optimizing Python apps for low-resource systems
 - UI/UX for developer tools & CLI-based automation
+- Building Thinking Safety Systems
 
 ---
 
