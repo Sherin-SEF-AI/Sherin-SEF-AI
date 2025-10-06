@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sherin Joseph Roy  
-
+https://sherinjosephroy.link
 🌐 [https://sherin-sef-ai.github.io](https://sherin-sef-ai.github.io)  
 
 I’m an **entrepreneur, AI technologist, and systems thinker** building real-world applications of artificial intelligence, IoT, and safety intelligence.  
