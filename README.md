@@ -1,7 +1,7 @@
 # Hi, I'm Sherin
 
 I work on computer vision, autonomous systems, and AI-driven safety intelligence.
-Based in Kerala, India.
+Based in Bangalore, India.
 
 ---
 
